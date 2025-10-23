@@ -15,5 +15,5 @@ I'm a Technical Manager with 15 years of experience in software development, spe
 - [Certifications](https://www.credly.com/users/bajaj-varun/badges#credly)
 
 ## 📫 Get in Touch
-- Email: bajaj.varun@hotmail.com
+<!-- - Email: bajaj.varun@hotmail.com -->
 - LinkedIn: linkedin.com/in/vbajaj3
