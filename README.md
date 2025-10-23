@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Varun Bajaj 👋
 
-<!--
-**bajaj-varun/bajaj-varun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Technical Manager with 15 years of experience in software development, specializing in DevOps, Python, and generative AI applications. I love building scalable systems and leading teams to deliver innovative solutions.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages**: Python, Bash, JavaScript
+- **DevOps**: Docker, Kubernetes, Jenkins, Terraform, AWS, Azure
+- **AI/ML**: Hugging Face, TensorFlow, PyTorch
+- **Other**: CI/CD, Microservices, Cloud Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Projects
+- **[CI/CD Automation](https://github.com/bajaj-varun/aviation-ai-platform)**: An AI-driven POC platform to optimize operational efficiency for a global aviation client. The system unified disparate data sources—including flight manifests, cargo waybills, maintenance logs, and weather reports—into a single intelligence hub. By leveraging Generative AI and RAG, the platform automated critical support workflows, reduced manual lookup times, and provided real-time, context-aware insights to ground crews, cargo handlers, and operational staff.
+
+## 🏆 Achievements
+- [Certifications](https://www.credly.com/users/bajaj-varun/badges#credly)
+
+## 📫 Get in Touch
+- Email: bajaj.varun@hotmail.com
+- LinkedIn: linkedin.com/in/vbajaj3
