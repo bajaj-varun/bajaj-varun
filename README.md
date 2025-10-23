@@ -9,7 +9,7 @@ I'm a Technical Manager with 15 years of experience in software development, spe
 - **Other**: CI/CD, Microservices, Cloud Architecture
 
 ## 🚀 Key Projects
-- **[CI/CD Automation](https://github.com/bajaj-varun/aviation-ai-platform)**: An AI-driven POC platform to optimize operational efficiency for a global aviation client. The system unified disparate data sources—including flight manifests, cargo waybills, maintenance logs, and weather reports—into a single intelligence hub. By leveraging Generative AI and RAG, the platform automated critical support workflows, reduced manual lookup times, and provided real-time, context-aware insights to ground crews, cargo handlers, and operational staff.
+- **[aviation-ai-platform](https://github.com/bajaj-varun/aviation-ai-platform)**: An AI-driven POC platform to optimize operational efficiency for a global aviation client. The system unified disparate data sources—including flight manifests, cargo waybills, maintenance logs, and weather reports—into a single intelligence hub. By leveraging Generative AI and RAG, the platform automated critical support workflows, reduced manual lookup times, and provided real-time, context-aware insights to ground crews, cargo handlers, and operational staff.
 
 ## 🏆 Achievements
 - [Certifications](https://www.credly.com/users/bajaj-varun/badges#credly)
