@@ -11,6 +11,8 @@ I'm a Technical Manager with 15 years of experience in software development, spe
 ## 🚀 Key Projects
 - **[aviation-ai-platform](https://github.com/bajaj-varun/aviation-ai-platform)**: An AI-driven POC platform to optimize operational efficiency for a global aviation client. The system unified disparate data sources—including flight manifests, cargo waybills, maintenance logs, and weather reports—into a single intelligence hub. By leveraging Generative AI and RAG, the platform automated critical support workflows, reduced manual lookup times, and provided real-time, context-aware insights to ground crews, cargo handlers, and operational staff.
 
+- **[Runway surface and safety intelligence engine]((https://github.com/bajaj-varun/RSSIE))**: Aviation safety demands perfection. Behind every smooth landing and safe takeoff is a complex, continuous flow of data that ensures the runway conditions are optimal. Runway Surface and Safety Intelligence (RSSIE) is a combination of quite diverse yet incredibly important data points. From weather conditions and IoT sensor readings to NOTAMs (Notice to Air Missions) and air traffic control logs, these critical metrics require 24/7 monitoring and the compilation of massive datasets in real-time.
+  
 ## 🏆 Achievements
 - [Certifications](https://www.credly.com/users/bajaj-varun/badges#credly)
 
